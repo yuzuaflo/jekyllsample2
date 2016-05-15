@@ -26,7 +26,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![Image of Yama]({{site.baseurl}}/images/IMG_8049.JPG)
+![Image of Yama]({{site.github.url}}/images/IMG_8049.JPG)
 
 ```c
 #include <stdio.h>
